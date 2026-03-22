@@ -168,6 +168,32 @@ Try the following:
 
 ---
 
+### Issue: PP testing requirements for new personal developer accounts
+
+Google may require additional testing for new personal (individual) developer accounts. For requirements and guidance:
+
+- **Check official docs:** [Add link to Google Play policy/testing requirements]
+- Contact Google Play support if you need clarification on requirements for your account type
+
+---
+
+### Issue: Copyrighted/Trademarked material policy (scan apps)
+
+Google's policies prohibit apps from facilitating unauthorized use of copyrighted or trademarked material. For a scan app with unrestricted user input:
+
+**Risks:**
+
+
+- Users might scan copyrighted text (e.g., from books or articles)
+- They could scan branded QR codes or logos (e.g., from Coca-Cola, Nike), which are protected by trademark law
+- The app might display, store, or process this scanned content, implicating you as the developer if it's misused
+
+**What to do:** Add a disclaimer to both your app and Play Store listing. Example:
+
+> [App Name] is a general-purpose scanning tool. It does not endorse or facilitate the unauthorized use of copyrighted or trademarked content. Users are solely responsible for obtaining permission from rights holders for any scanned material.
+
+---
+
 ## 💬 Need Help?
 
 If you have any issues, feel free to contact us. We’re happy to guide you step by step 👍
